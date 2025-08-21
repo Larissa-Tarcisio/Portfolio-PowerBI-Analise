@@ -14,7 +14,7 @@ Aqui você encontrará alguns dashboards que desenvolvi no **Power BI**, com foc
   - Comparativo de metas x realizado  
   - Tendência de crescimento em regiões específicas  
 - 🔗 [Acesse o dashboard interativo](#) *(substitua com o link do Power BI Service)*  
-- 📸 ![Dashboard Vendas](imagens/Marketing.png) 
+- 📸 ![Dashboard Vendas](Imagens/Marketing.png) 
 
 ---
 
@@ -25,9 +25,9 @@ Aqui você encontrará alguns dashboards que desenvolvi no **Power BI**, com foc
   - Top clientes por faturamento  
   - Performance de equipes de vendas por região  
 - 🔗 [Acesse o dashboard interativo](#) *(substitua com o link do Power BI Service)*  
-- 📸 ![Dashboard Comercial](imagens/Comercial1.png)
-- 📸 ![Dashboard Comercial](imagens/Comercial2.png)
-- 📸 ![Dashboard Comercial](imagens/Comercial3.png)
+- ![Dashboard Comercial](Imagens/Comercial1.png)
+- ![Dashboard Comercial](Imagens/Comercial2.png)
+- ![Dashboard Comercial](Imagens/Comercial3.png)
   
 
 ---
@@ -39,7 +39,7 @@ Aqui você encontrará alguns dashboards que desenvolvi no **Power BI**, com foc
   - Tempo médio de permanência dos colaboradores  
   - Contratações x desligamentos ao longo do tempo  
 - 🔗 [Acesse o dashboard interativo](#)  
-- 📸 ![Dashboard RH](imagens/RH.png)  
+- ![Dashboard RH](Imagens/RH.png)  
 
 ---
 
