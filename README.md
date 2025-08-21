@@ -13,8 +13,8 @@ Aqui você encontrará alguns dashboards que desenvolvi no **Power BI**, com foc
   - Top 5 produtos mais lucrativos  
   - Comparativo de metas x realizado  
   - Tendência de crescimento em regiões específicas  
-- 🔗 [Acesse o dashboard interativo](#) *(substitua com o link do Power BI Service)*  
-- 📸 ![Dashboard Vendas](Imagens/Marketing.png) 
+- 🔗 [[Acesse o dashboard interativo](https://app.powerbi.com/links/EyZPaI4lwj?ctid=653f092f-10d2-4f9b-a458-3bc79a173650&pbi_source=linkShare)]
+- ![Dashboard Vendas](Imagens/Marketing.png) 
 
 ---
 
@@ -24,7 +24,7 @@ Aqui você encontrará alguns dashboards que desenvolvi no **Power BI**, com foc
   - Comparativo de metas x realizado  
   - Top clientes por faturamento  
   - Performance de equipes de vendas por região  
-- 🔗 [Acesse o dashboard interativo](#) *(substitua com o link do Power BI Service)*  
+- 🔗 [[Acesse o dashboard interativo](https://app.powerbi.com/links/bat3MCa_yb?ctid=653f092f-10d2-4f9b-a458-3bc79a173650&pbi_source=linkShare)]  
 - ![Dashboard Comercial](Imagens/Comercial1.png)
 - ![Dashboard Comercial](Imagens/Comercial2.png)
 - ![Dashboard Comercial](Imagens/Comercial3.png)
@@ -38,7 +38,7 @@ Aqui você encontrará alguns dashboards que desenvolvi no **Power BI**, com foc
   - Taxa de rotatividade  
   - Tempo médio de permanência dos colaboradores  
   - Contratações x desligamentos ao longo do tempo  
-- 🔗 [Acesse o dashboard interativo](#)  
+- 🔗 [[Acesse o dashboard interativo](https://app.powerbi.com/links/orynw22Pjz?ctid=653f092f-10d2-4f9b-a458-3bc79a173650&pbi_source=linkShare&bookmarkGuid=cf461d51-4448-4cb2-abb2-a51730f7906f)]
 - ![Dashboard RH](Imagens/RH.png)  
 
 ---
